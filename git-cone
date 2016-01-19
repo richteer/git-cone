@@ -11,4 +11,4 @@ cat <<EOF
     \#/
      V
 EOF
-git clone $@
+git clone "$@"
